@@ -5,28 +5,8 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
-
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
-</div>
-</div>
-<br/>
-
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am an incoming post-doctoral fellow at Stanford University. I completed my Ph.D. in the Electrical and Computer Engineering (ECE) Department from University of California, Santa Barbara (UCSB). My research interest is at the intersection of computer vision, pattern recognition, graph theory, and computational geometry. My PhD research takes a principled approach to mathematically model the white matter pathways in the human brain and analyze crucial topological information. A central focus in my research is to build on and apply theoretical tools from computational geometry along with machine learning to mitigate the complexity of brain imaging data. My Ph.D. research has earned me the **Lancaster Dissertation award** 2024, UCSB’s highest honor for PhD dissertations completed within a 2-year period covering all areas of engineering, physical sciences, and mathematics. I have been honored as an **NSF iRedefine fellow 2023** for my leadership and research potential from the ECE Department Heads Association. Throughout my Ph.D., I have enjoyed teaching and mentorship as much as research. I have been awarded th**e Fiona and Michael Goodchild best graduate student mentor** award for my impactful undergraduate mentorship.
+
+In 2018, I graduated with a bachelors degree from the Indian Institute of Technoloy (IIT) Kharagpur, India. My Bachelor of Technology degree is from the Electrical Engineering department.
