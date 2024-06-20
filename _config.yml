@@ -13,17 +13,17 @@ url: ""
 # Footer info
 affiliation: >
   Shailja<br/>
-  Postdoc<br/>
+  Postdoctoral Scholar,<br/>
   Stanford University
 
 location: >
-  Richard M. Lucas Center for Imaging<br/>
+  Richard M. Lucas Center for Imaging,<br/>
   1201 Welch Road,<br/>
   Stanford,  California  94305 
 
 contact: >
   <a href="mailto:shailja@ucsb.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Shailja via email</a> <br/>
-  <a href="https://github.com/s-shailja/website"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  # <a href="https://github.com/s-shailja/website"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
@@ -31,10 +31,10 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
-  - name: team
   - name: teaching
-  - name: blogs
+  - name: awards
+  - name: CV
+  - name: news
 
 include:
   - .htaccess
@@ -62,8 +62,8 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Shailja
+  first_name: [S.]
 
   style: citesty
   locale: en
